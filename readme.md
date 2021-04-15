@@ -1,5 +1,7 @@
 # gojek re-design
 
+React Native App
+
 ## Install and run on android
 ```
 run "yarn" for install dependencies
